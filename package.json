@@ -1,0 +1,15 @@
+{
+  "name": "digigan",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "dependencies": {
+    "autopreview": "^1.0.0",
+    "puppeteer": "^22.7.1"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "hosein jalali",
+  "license": "ISC"
+}
